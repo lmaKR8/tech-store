@@ -1,0 +1,93 @@
+[
+  {
+    "sku": "RT8756",
+    "nombre": "MOUSE",
+    "categoria": "PERIFÉRICOS",
+    "precio": 12500,
+    "stock": 80
+  },
+  {
+    "sku": "ZE5346",
+    "nombre": "MSI KATANA",
+    "categoria": "LAPTOPS",
+    "precio": 1250000,
+    "stock": 10
+  },
+  {
+    "sku": "NI9278",
+    "nombre": "HP VICTUS",
+    "categoria": "LAPTOPS",
+    "precio": 850000,
+    "stock": 12
+  },
+  {
+    "sku": "YU8743",
+    "nombre": "MOUSEPAD",
+    "categoria": "ACCESORIOS",
+    "precio": 5000,
+    "stock": 120
+  },
+  {
+    "sku": "PI3109",
+    "nombre": "PENDRIVE 1TB",
+    "categoria": "PERIFÉRICOS",
+    "precio": 36200,
+    "stock": 50
+  },
+  {
+    "sku": "DL8736",
+    "nombre": "DELL ALIENWARE",
+    "categoria": "LAPTOPS",
+    "precio": 1800000,
+    "stock": 6
+  },
+  {
+    "sku": "WQ9563",
+    "nombre": "CAMARA PC",
+    "categoria": "PERIFÉRICOS",
+    "precio": 24000,
+    "stock": 27
+  },
+  {
+    "sku": "NO4798",
+    "nombre": "HP OMEN",
+    "categoria": "LAPTOPS",
+    "precio": 1480000,
+    "stock": 8
+  },
+  {
+    "sku": "YT6730",
+    "nombre": "FUNDA TECLADO",
+    "categoria": "ACCESORIOS",
+    "precio": 7500,
+    "stock": 100
+  },
+  {
+    "sku": "LV8721",
+    "nombre": "LENOVO THINKPAD",
+    "categoria": "LAPTOPS",
+    "precio": 2500000,
+    "stock": 0
+  },
+  {
+    "sku": "AC1503",
+    "nombre": "CABLE HDMI 2M",
+    "categoria": "ACCESORIOS",
+    "precio": 3200,
+    "stock": 50
+  },
+  {
+    "sku": "LA6194",
+    "nombre": "DELL XPS",
+    "categoria": "LAPTOPS",
+    "precio": 990000,
+    "stock": 15
+  },
+  {
+    "sku": "ER9843",
+    "nombre": "AUDIFONOS BT",
+    "categoria": "PERIFÉRICOS",
+    "precio": 83500,
+    "stock": 20
+  }
+]
